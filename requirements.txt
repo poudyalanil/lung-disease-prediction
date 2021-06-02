@@ -18,5 +18,5 @@ requests==2.24.0
 rsa==4.7
 scipy==1.5.4
 six==1.15.0
-urllib3==1.25.11
+urllib3==1.26.5
 wincertstore==0.2
